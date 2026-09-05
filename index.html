@@ -322,6 +322,7 @@ h3.subsection-heading {
 }
 
 /* ===== RESPONSIVE ===== */
+html, body { overflow-x: hidden; }
 @media (max-width: 860px) {
   .infobox {
     float: none;
@@ -329,10 +330,13 @@ h3.subsection-heading {
     margin: 0 0 20px 0;
   }
   .page-wrapper { flex-direction: column; }
-  .content-area { padding: 20px 16px 30px; }
+  .content-area { padding: 20px 16px 30px; word-break: break-word; overflow-wrap: break-word; }
   .site-nav { display: none; }
   .article-title { font-size: 1.5rem; }
-  .toc { max-width: 100%; }
+  .section-heading { font-size: 1.15rem; }
+  .toc { max-width: 100%; min-width: 0; }
+  .references li, .ext-links li { word-break: break-all; }
+  .infobox-photo img { width: 100%; max-width: 260px; }
 }
 
 /* ===== PRINT ===== */
