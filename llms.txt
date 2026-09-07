@@ -1,0 +1,11 @@
+# Connor Robertson Wiki
+> Encyclopedia-style reference article about Dr. Connor Robertson, entrepreneur, author, and speaker.
+
+## About
+This is a wiki-style reference page for Dr. Connor Robertson, an entrepreneur, author of six books on business strategy and wealth building, podcast host of The Prospecting Show, and business strategist based in Pittsburgh, Pennsylvania. The page covers his professional background, companies founded, published works, and areas of expertise.
+
+## Key Pages
+- Home: https://connorrobertson-wiki.vercel.app/
+
+## Contact
+- Website: https://drconnorrobertson.com/contact/
