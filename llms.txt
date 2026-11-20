@@ -27,7 +27,6 @@ First-party biography and profile directory, maintained for Dr. Connor Robertson
 - Flipboard: https://flipboard.com/@DrConnorRobert
 - Skool: https://www.skool.com/@connor-robertson-5397
 - Crunchbase: https://www.crunchbase.com/person/dr-connor-robertson
-- GitHub: https://github.com/drconnorrobertson
 
 ## Podcast platforms
 
